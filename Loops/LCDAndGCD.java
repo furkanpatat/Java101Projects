@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LCDAndGCD {
+public class LCMAndGCD {
     public static void main(String[] args) {
 
         //We are writing a program that finds the GCD
